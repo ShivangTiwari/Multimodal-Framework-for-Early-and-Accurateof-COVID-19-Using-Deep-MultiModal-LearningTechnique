@@ -1,0 +1,2 @@
+# Multimodal-Framework-for-Early-and-Accurateof-COVID-19-Using-Deep-MultiModal-LearningTechnique
+a novel multimodal learning framework is proposed for the early diagnosis of COVID-19 patients using hybrid deep fusion learning models. The proposed framework of early classification of patients is based on collected samples of chest X-ray images and cough(sound), we are using a publicly available Coswara dataset which contains 92 COVID-19 positive and 1079 healthy subjects. The expected accuracy of all the models are over 90%.
